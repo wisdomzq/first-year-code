@@ -1,0 +1,8 @@
+{
+    "editor.accessibilityPageSize": 15,
+    "files.associations": {
+        "iostream": "cpp",
+        "string_view": "cpp",
+        "regex": "cpp"
+    }
+}
